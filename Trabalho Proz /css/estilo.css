@@ -1,0 +1,30 @@
+*{
+
+    margin: 4px 3px 4px 3px;
+
+}
+
+body{
+
+    background: #b1ffb1 ;
+
+}
+
+#banner{
+
+    width: default;
+    height: "auto";
+    margin-bottom: 30px;
+    border-radius: 12px;
+
+}
+
+h1{
+    
+    background: white;
+    text-align: center;
+    color: black;
+    width: 100%;
+    border-radius: 12px;
+    
+}
